@@ -115,3 +115,5 @@ dependencies:
   - keyring=13.2.1=py36_0
   - pytz=2018.5=py36_0
   - pywin32-ctypes=0.2.0=py36he119be9_0
+prefix: C:\Users\cooperr\AppData\Local\Continuum\Miniconda3\envs\arcgis-python-single-part-test
+
